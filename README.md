@@ -1,4 +1,7 @@
 # bunchi
 this is my first git repository
 <br>
-author-srinjini bhowmick
+author-srinjini (munai)
+
+
+
